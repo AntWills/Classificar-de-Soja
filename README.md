@@ -59,7 +59,7 @@ RedeCNN(
     (1): Linear(in_features=64, out_features=256, bias=True)
     (2): ReLU()
     (3): Dropout(p=0.3, inplace=False)
-    (4): Linear(in_features=256, out_features=196, bias=True)
+    (4): Linear(in_features=256, out_features=5, bias=True)
   )
 )
 ```
